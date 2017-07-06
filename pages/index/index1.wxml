@@ -1,0 +1,4 @@
+<!--pages/index/index1.wxml-->
+<view class="view1">
+  <canvas class="canvaone" canvas-id="secondCanvas" />
+</view>

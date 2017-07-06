@@ -1,0 +1,13 @@
+/**index.wxss**/
+.cont{
+  /*宽度为整个手机宽度的100%*/
+    width:100%;
+    /*1vh代表手机高度的1%*/
+    height:100vh;
+    /*border: 5px solid red;*/
+}
+
+.can{
+  width:100%;
+  height:100vh;
+}
